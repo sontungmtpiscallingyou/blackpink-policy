@@ -1,0 +1,222 @@
+{
+  "markets": {
+    "com.shopee.vn": {
+      "badge_text": "Gợi ý phụ kiện BLACKPINK • Tiếp thị liên kết",
+      "headline": "Bộ sưu tập phụ kiện hot cho bạn",
+      "cta_text": "Sắm trên Shopee",
+      "items": [
+        {
+          "id": "bp_vn_01",
+          "title": "Áo Thun Cộc Tay CELINE Lisa BLACKPINK Phong Cách Đường Phố",
+          "price": "99.000đ",
+          "original_price": "165.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/d47fbae4f515d604246f26ed317a5b10.webp",
+          "aff_link": "https://s.shopee.vn/2qW59YJDwb"
+        },
+        {
+          "id": "bp_vn_02",
+          "title": "Hộp 55 Thẻ Bo Góc LOMO Card BLACKPINK Shut Down & Pink Venom",
+          "price": "25.000đ",
+          "original_price": "45.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/cn-11134207-7ras8-mcsqzwp8fqio54.webp",
+          "aff_link": "https://s.shopee.vn/70Le7EAnLq"
+        },
+        {
+          "id": "bp_vn_03",
+          "title": "Móc Khóa Búa Hăm-mơ Lightstick BLACKPINK Official Ver Special",
+          "price": "49.000đ",
+          "original_price": "85.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/vn-11134207-7ras8-mcp8fpfemx0ce4.webp",
+          "aff_link": "https://s.shopee.vn/7pul6lppG0"
+        },
+        {
+          "id": "bp_vn_04",
+          "title": "OKÉLLA CLOSET - Set Áo Croptop & Quần Tây Ống Suông Rosé BLACKPINK",
+          "price": "165.000đ",
+          "original_price": "250.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/vn-11134207-7r98o-lnvmrz9xx30acd.webp",
+          "aff_link": "https://s.shopee.vn/1BtmO2KbK"
+        },
+        {
+          "id": "bp_vn_05",
+          "title": "Kính Áp Tròng 1 Ngày OLENS Moodnight Jisoo BLACKPINK Chính Hãng",
+          "price": "79.000đ",
+          "original_price": "120.000đ",
+          "image_url": "https://down-zl-vn.img.susercontent.com/vn-11134207-81ztc-mp4059nuj30s04.webp",
+          "aff_link": "https://s.shopee.vn/2BGOMNcpuc"
+        }
+      ]
+    },
+    "com.shopee.id": {
+      "badge_text": "Pilihan Aksesoris BLACKPINK • Sponsored",
+      "headline": "Koleksi Aksesoris Favorit BLINK",
+      "cta_text": "Beli di Shopee",
+      "items": []
+    },
+    "com.shopee.ph": {
+      "badge_text": "BLACKPINK Merch Picks • Sponsored",
+      "headline": "Top BLACKPINK BLINK Collectibles",
+      "cta_text": "View on Shopee",
+      "items": [
+        {
+          "id": "bp_ph_01",
+          "title": "Official BLACKPINK Hammer Lightstick Keychain Keyring",
+          "price": "₱349",
+          "original_price": "₱599",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134207-7rdxx-mcg6huqv6oky13.webp",
+          "aff_link": "https://invl.me/clo8hew"
+        },
+        {
+          "id": "bp_ph_02",
+          "title": "BLACKPINK Backpack & Pencil Case Set for School & Travel",
+          "price": "₱429",
+          "original_price": "₱799",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134201-7rbnf-llkbrik8r38o15.webp",
+          "aff_link": "https://invl.me/clo8hf0"
+        },
+        {
+          "id": "bp_ph_03",
+          "title": "9Tees BLACKPINK Classic Box Logo Pink Graphic Cotton T-Shirt",
+          "price": "₱169",
+          "original_price": "₱300",
+          "image_url": "https://down-ph.img.susercontent.com/file/ph-11134207-7ra0q-mdn6u9let1za36.webp",
+          "aff_link": "https://invl.me/clo8hf1"
+        },
+        {
+          "id": "bp_ph_04",
+          "title": "JENNIE 1st Studio Album [Ruby] Digipack Photobook CD Album",
+          "price": "₱680",
+          "original_price": "₱1,150",
+          "image_url": "https://down-ph.img.susercontent.com/file/sg-11134207-7ra3f-m5auxnkwn0c429.webp",
+          "aff_link": "https://invl.me/clo8hf2"
+        },
+        {
+          "id": "bp_ph_05",
+          "title": "92PCS Box BLACKPINK LOMO Cards & Cute Deco Stickers Set",
+          "price": "₱69",
+          "original_price": "₱129",
+          "image_url": "https://down-ph.img.susercontent.com/file/ph-11134207-7ra0h-mbq5mawtxxao94.webp",
+          "aff_link": "https://invl.me/clo8hf4"
+        }
+      ]
+    },
+    "com.shopee.th": {
+      "badge_text": "สินค้า BLACKPINK แนะนำ • สปอนเซอร์",
+      "headline": "คอลเลกชันสุดพิเศษสำหรับ BLINK",
+      "cta_text": "ดูบน Shopee",
+      "items": []
+    },
+    "com.shopee.br": {
+      "badge_text": "Achadinhos BLACKPINK • Patrocinado",
+      "headline": "Colecionáveis BLACKPINK BLINK Favoritos",
+      "cta_text": "Ver na Shopee",
+      "items": []
+    },
+    "com.shopee.my": {
+      "badge_text": "BLACKPINK Picks • Sponsored",
+      "headline": "Exclusive BLACKPINK BLINK Merch",
+      "cta_text": "Shop on Shopee",
+      "items": [
+        {
+          "id": "bp_my_01",
+          "title": "124PCS Holographic BLACKPINK LOMO Card & Sticker Pack Set",
+          "price": "RM 6.50",
+          "original_price": "RM 12.00",
+          "image_url": "https://down-my.img.susercontent.com/file/sg-11134201-7rdxd-lxxg9ke7v3hc15.webp",
+          "aff_link": "https://invl.me/clo8hdx"
+        },
+        {
+          "id": "bp_my_02",
+          "title": "Official XD UNIVERSE BLACKPINK Lightstick Ver.2 (with POB Photocard)",
+          "price": "RM 185.00",
+          "original_price": "RM 249.00",
+          "image_url": "https://down-my.img.susercontent.com/file/my-11134207-820la-mmmycc0wmneqb3.webp",
+          "aff_link": "https://invl.me/clo8he1"
+        },
+        {
+          "id": "bp_my_03",
+          "title": "6-in-1 BLACKPINK Member Acrylic Keychain Set Bag Pendant",
+          "price": "RM 4.80",
+          "original_price": "RM 9.90",
+          "image_url": "https://down-my.img.susercontent.com/file/cn-11134207-7ras8-m9r1rnie3jjm14.webp",
+          "aff_link": "https://invl.me/clo8he4"
+        },
+        {
+          "id": "bp_my_04",
+          "title": "[Limited Edition] OREO x BLACKPINK Cookies Pack with Photocard",
+          "price": "RM 6.50",
+          "original_price": "RM 12.00",
+          "image_url": "https://down-my.img.susercontent.com/file/my-11134207-7rasb-m37ipkwhzlkx47.webp",
+          "aff_link": "https://invl.me/clo8he5"
+        },
+        {
+          "id": "bp_my_05",
+          "title": "BLACKPINK Special Edition Insulated Coffee Tumbler Cup with Strap",
+          "price": "RM 18.90",
+          "original_price": "RM 35.00",
+          "image_url": "https://down-my.img.susercontent.com/file/id-11134207-822wi-mmsqao6s972c95.webp",
+          "aff_link": "https://invl.me/clo8he6"
+        }
+      ]
+    },
+    "com.shopee.sg": {
+      "badge_text": "BLACKPINK Picks • Sponsored",
+      "headline": "Top BLACKPINK BLINK Collectibles in SG",
+      "cta_text": "Shop on Shopee",
+      "items": [
+        {
+          "id": "bp_sg_01",
+          "title": "BLACKPINK 'In Your Area' All-Member Zip Bomber Jacket",
+          "price": "S$ 16.90",
+          "original_price": "S$ 29.90",
+          "image_url": "https://down-sg.img.susercontent.com/file/54deb764a20c3316fd4c1c358add7992.webp",
+          "aff_link": "https://invl.me/clo8heg"
+        },
+        {
+          "id": "bp_sg_02",
+          "title": "BLACKPINK 'How You Like That' Backpack with Fur Ball Charm",
+          "price": "S$ 18.50",
+          "original_price": "S$ 32.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134201-23020-13b3g9iipanv84.webp",
+          "aff_link": "https://invl.me/clo8hei"
+        },
+        {
+          "id": "bp_sg_03",
+          "title": "Official BLACKPINK Mini Hammer Lightstick Keyring Bag Charm",
+          "price": "S$ 12.90",
+          "original_price": "S$ 22.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7rdxt-mch4cgvmk3w7c2.webp",
+          "aff_link": "https://invl.me/clo8hej"
+        },
+        {
+          "id": "bp_sg_04",
+          "title": "BLACKPINK THE GAME (BPTG) Official Package Tin Box Collection",
+          "price": "S$ 24.50",
+          "original_price": "S$ 45.00",
+          "image_url": "https://down-sg.img.susercontent.com/file/sg-11134207-7qvfz-lh8q4xbm4auy53.webp",
+          "aff_link": "https://invl.me/clo8hek"
+        },
+        {
+          "id": "bp_sg_05",
+          "title": "55Pcs ROSÉ 'APT.' Holographic LOMO Card Photocard Box Set",
+          "price": "S$ 3.80",
+          "original_price": "S$ 7.50",
+          "image_url": "https://down-sg.img.susercontent.com/file/id-11134207-7rbk6-m7g6kazn6azkb7.webp",
+          "aff_link": "https://invl.me/clo8hel"
+        }
+      ]
+    },
+    "com.shopee.tw": {
+      "badge_text": "BLACKPINK 必買周邊 • 贊助",
+      "headline": "熱門 BLACKPINK 周邊精選",
+      "cta_text": "前往蝦皮逛逛",
+      "items": []
+    },
+    "com.shopee.mx": {
+      "badge_text": "Colección BLACKPINK • Patrocinado",
+      "headline": "Coleccionables BLACKPINK BLINK Favoritos",
+      "cta_text": "Comprar en Shopee",
+      "items": []
+    }
+  }
+}
