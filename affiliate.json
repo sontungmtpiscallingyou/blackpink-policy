@@ -110,7 +110,48 @@
       "badge_text": "Achadinhos BLACKPINK • Patrocinado",
       "headline": "Colecionáveis BLACKPINK BLINK Favoritos",
       "cta_text": "Ver na Shopee",
-      "items": []
+      "items": [
+        {
+          "id": "bp_br_01",
+          "title": "Camiseta Feminina 100% Algodão ROSÉ Number One Girl KPOP Blusa Blackpink Envio Imediato",
+          "price": "R$ 39,90",
+          "original_price": "R$ 69,90",
+          "image_url": "https://down-br.img.susercontent.com/file/sg-11134201-7rceu-m6edkmlnui6qef.webp",
+          "aff_link": "https://invl.app/clo9ccy"
+        },
+        {
+          "id": "bp_br_02",
+          "title": "KPOP BLACKPINK Light Stick JENNIE JISOO ROSE LISA Concerto Fã Presente",
+          "price": "R$ 89,90",
+          "original_price": "R$ 149,90",
+          "image_url": "https://down-br.img.susercontent.com/file/sg-11134201-824go-me566dh1sdfm22.webp",
+          "aff_link": "https://invl.app/clo9cd5"
+        },
+        {
+          "id": "bp_br_03",
+          "title": "Funko Pop BLACKPINK Chaveiro Jennie Rose Jisoo Lisa Pendente Boneca Ornamental",
+          "price": "R$ 24,90",
+          "original_price": "R$ 45,00",
+          "image_url": "https://down-br.img.susercontent.com/file/sg-11134201-7ra2o-mbizbkr64619f5.webp",
+          "aff_link": "https://invl.app/clo9cde"
+        },
+        {
+          "id": "bp_br_04",
+          "title": "Camiseta Blackpink Kpop Grupo Lisa Jennie Jisoo Rose Tshirt Unissex",
+          "price": "R$ 38,90",
+          "original_price": "R$ 65,00",
+          "image_url": "https://down-br.img.susercontent.com/file/br-11134207-820ll-ms8kop1onhfodc.webp",
+          "aff_link": "https://invl.app/clo9cdv"
+        },
+        {
+          "id": "bp_br_05",
+          "title": "Caneca Xícara Café Banda Grupo Blackpink Kpop Lisa Jennie Jisoo Rose Rosa",
+          "price": "R$ 29,90",
+          "original_price": "R$ 49,90",
+          "image_url": "https://down-br.img.susercontent.com/file/sg-11134201-8262l-mjswpf80j9qc23.webp",
+          "aff_link": "https://invl.app/clo9cep"
+        }
+      ]
     },
     "com.shopee.my": {
       "badge_text": "BLACKPINK Picks • Sponsored",
@@ -216,7 +257,48 @@
       "badge_text": "Colección BLACKPINK • Patrocinado",
       "headline": "Coleccionables BLACKPINK BLINK Favoritos",
       "cta_text": "Comprar en Shopee",
-      "items": []
+      "items": [
+        {
+          "id": "bp_mx_01",
+          "title": "BLACKPINK LISA Alter Ego Photobook KIKI ver Álbum Oficial K-POP",
+          "price": "$ 520",
+          "original_price": "$ 850",
+          "image_url": "https://down-mx.img.susercontent.com/file/sg-11134207-7rd68-m7kenmckkjjk06.webp",
+          "aff_link": "https://invl.app/clo9cfr"
+        },
+        {
+          "id": "bp_mx_02",
+          "title": "BLACKPINK JENNIE The 1st Studio Album Ruby (Digipack)",
+          "price": "$ 480",
+          "original_price": "$ 790",
+          "image_url": "https://down-mx.img.susercontent.com/file/sg-11134207-7ra0x-m5axvuvnpd3455.webp",
+          "aff_link": "https://invl.app/clo9cfv"
+        },
+        {
+          "id": "bp_mx_03",
+          "title": "Taza De Porcelana De 325 Ml Diseño De Blackpink Kpop Jennie Fan Decoración Personalizada",
+          "price": "$ 139",
+          "original_price": "$ 230",
+          "image_url": "https://down-mx.img.susercontent.com/file/sg-11134201-825ag-mrepvjcqmjuu86.webp",
+          "aff_link": "https://invl.app/clo9cfx"
+        },
+        {
+          "id": "bp_mx_04",
+          "title": "BLACKPINK DEADLINE TOUR MD Reusable Bag Bolsa Ecológica Oficial",
+          "price": "$ 189",
+          "original_price": "$ 320",
+          "image_url": "https://down-mx.img.susercontent.com/file/sg-11134207-8227p-mhhdr6mdyk8w30.webp",
+          "aff_link": "https://invl.app/clo9cfz"
+        },
+        {
+          "id": "bp_mx_05",
+          "title": "Muñeco De Peluche BLACKPINK De 10 Cm Rubí Jennie Jisoo Rosé Lisa Disfraz K-POP",
+          "price": "$ 169",
+          "original_price": "$ 280",
+          "image_url": "https://down-mx.img.susercontent.com/file/sg-11134201-82599-mumjnm5nsfeoc1.webp",
+          "aff_link": "https://invl.app/clo9cg4"
+        }
+      ]
     }
   }
 }
